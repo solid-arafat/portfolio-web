@@ -1,0 +1,21 @@
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependencies (if you add package managers later)
+node_modules/
+vendor/
+
+# Build outputs
+dist/
+build/
